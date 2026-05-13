@@ -2,7 +2,7 @@
 
 **Sinh vien:** Le Minh Hoang  
 **MSSV:** 2A202600101  
-**Mon/Lab:** Day 25 - GPU FinOps & Cost Optimization
+**Lab:** Day 25 - GPU FinOps & Cost Optimization
 
 ## 1. Gioi thieu
 
